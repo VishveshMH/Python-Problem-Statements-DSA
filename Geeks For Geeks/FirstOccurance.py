@@ -1,0 +1,2 @@
+def FirstOccurance(arr,k):
+    
